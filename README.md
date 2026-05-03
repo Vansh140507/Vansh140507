@@ -23,9 +23,9 @@ I'm a passionate developer currently learning **Advanced Backend Patterns** and 
 ![PHP](https://img.shields.io/badge/php-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vansh140507&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
