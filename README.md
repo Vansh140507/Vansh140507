@@ -33,18 +33,21 @@ I'm a passionate developer currently learning **Advanced Backend Patterns** and 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh140507&show_icons=true&theme=radical" width="48%" />
-  
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vansh140507&theme=radical" width="97%" />
-</p>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Vansh140507&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<a href="https://git.io/streak-toggle">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh140507&theme=radical" alt="GitHub Streak" width="90%" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="90%" />
+</a>
+
+
+
 
 ---
 
